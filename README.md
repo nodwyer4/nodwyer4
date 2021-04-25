@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nicholas O'Dwyer
+- 👀 I’m interested in Full Stack, Dev Ops
+- 🌱 I’m currently learning typescript
+- 📫 How to reach me - nodwyer4@gmail.com
